@@ -8,8 +8,6 @@ A simple **high-performance TCP chat server** built in **C++17**.
 - Thread-safe client communication with `std::mutex`
 - Uses **Winsock2 (Windows)** or **Berkeley Sockets (Linux)**
 - Broadcasting messages from one client to all connected clients
-- Unit tests with **GoogleTest**
-- Static code analysis using `clang-tidy`
 - Cross-platform (tested on Windows with MSYS2 and Linux)
 
 ## Project Structure
@@ -86,6 +84,7 @@ make
 - Support for chat rooms
 - GUI client using Qt
 - TLS encryption for secure communication
+
 
 
 
