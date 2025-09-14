@@ -80,13 +80,12 @@ make
 - **Cross-platform system programming**
 - **Good software practices**: testing, static analysis, CI/CD
 
----
-
 ## 📌 Future Improvements
 
 - Add authentication & private messaging
 - Support for chat rooms
 - GUI client using Qt
 - TLS encryption for secure communication
+
 
 
