@@ -31,7 +31,10 @@ cpp-chat-server/
 
 ## Demo
 
-Insert gif or link to demo
+[![Chat Server Demo](demo-thumbnail.png)](https://github.com/user-attachments/assets/319fa3b5-25a7-4c92-9982-cc5662403f29)
+
+
+
 
 ### 🔹 Build (Windows / MSYS2 UCRT64)
 
@@ -86,3 +89,4 @@ make
 - Support for chat rooms
 - GUI client using Qt
 - TLS encryption for secure communication
+
