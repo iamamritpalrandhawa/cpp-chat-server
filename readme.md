@@ -1,7 +1,6 @@
 # C++ Multithreaded Chat Server
 
 A simple **high-performance TCP chat server** built in **C++17**.  
-This project demonstrates **system programming, multithreading, and software engineering best practices**.
 
 ## ✨ Features
 
@@ -89,4 +88,5 @@ make
 - Support for chat rooms
 - GUI client using Qt
 - TLS encryption for secure communication
+
 
